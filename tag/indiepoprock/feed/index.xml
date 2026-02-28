@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Indiepoprock. &#8211; Mendelson &#8211; Le site</title>
-	<atom:link href="https://mendelson.pages-perso.free.fr/tag/indiepoprock/feed/" rel="self" type="application/rss+xml" />
-	<link>https://mendelson.pages-perso.free.fr/</link>
+	<atom:link href="https://mendelson.fr/tag/indiepoprock/feed/" rel="self" type="application/rss+xml" />
+	<link>https://mendelson.fr/</link>
 	<description>Ceci est le site officiel de Mendelson</description>
 	<lastBuildDate>Wed, 19 Apr 2017 09:47:06 +0000</lastBuildDate>
 	<language>fr-FR</language>
@@ -21,15 +21,15 @@
 	<generator>https://wordpress.org/?v=6.9.1</generator>
 
 <image>
-	<url>https://mendelson.pages-perso.free.fr/wp-content/uploads/2013/05/cropped-bkiatrecqaa-kbp-large-32x32.png</url>
+	<url>https://mendelson.fr/wp-content/uploads/2013/05/cropped-bkiatrecqaa-kbp-large-32x32.png</url>
 	<title>Indiepoprock. &#8211; Mendelson &#8211; Le site</title>
-	<link>https://mendelson.pages-perso.free.fr/</link>
+	<link>https://mendelson.fr/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>chronique de SCIENCES POLITIQUES sur Indiepoprock</title>
-		<link>https://mendelson.pages-perso.free.fr/chronique-de-sciences-politiques-sur-indiepoprock/</link>
+		<link>https://mendelson.fr/chronique-de-sciences-politiques-sur-indiepoprock/</link>
 		
 		<dc:creator><![CDATA[Mendelson]]></dc:creator>
 		<pubDate>Wed, 05 Apr 2017 13:25:11 +0000</pubDate>
@@ -37,7 +37,7 @@
 		<category><![CDATA[Revue de Presse]]></category>
 		<category><![CDATA[Indiepoprock.]]></category>
 		<category><![CDATA[sciences politiques]]></category>
-		<guid isPermaLink="false">https://mendelson.pages-perso.free.fr/ee.fr/actualites/?p=1418</guid>
+		<guid isPermaLink="false">https://mendelson.fr/ee.fr/actualites/?p=1418</guid>
 
 					<description><![CDATA[En dessous : belle chronique de SCIENCES POLITIQUES sur Indiepoprock. Merci à eux ! www.indiepoprock.fr/chroniques/albums/mendelson/sciences-politiques]]></description>
 										<content:encoded><![CDATA[<p>En dessous : belle chronique de SCIENCES POLITIQUES sur Indiepoprock.<br />

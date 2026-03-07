@@ -9,20 +9,8 @@
 		<lastmod>2017-04-14T22:39:05+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://mendelson.fr/videos-de-mendelson/</loc>
-		<lastmod>2026-03-06T23:17:07+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://mendelson.fr/stop/</loc>
-		<lastmod>2026-03-06T20:23:13+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://mendelson.fr/timieline-facebook/</loc>
-		<lastmod>2026-03-05T22:24:54+00:00</lastmod>
-	</url>
-	<url>
 		<loc>https://mendelson.fr/discographie-2/</loc>
-		<lastmod>2026-03-05T21:04:17+00:00</lastmod>
+		<lastmod>2026-03-07T18:16:45+00:00</lastmod>
 		<image:image>
 			<image:loc>https://mendelson.fr/wp-content/uploads/2017/03/c5_tqsaxqaaqy.jpg</image:loc>
 		</image:image>
@@ -50,6 +38,22 @@
 		<image:image>
 			<image:loc>https://mendelson.fr/wp-content/uploads/2017/04/ined.jpg</image:loc>
 		</image:image>
+	</url>
+	<url>
+		<loc>https://mendelson.fr/videos-de-mendelson/</loc>
+		<lastmod>2026-03-07T17:05:44+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://mendelson.fr/en-ecoute/</loc>
+		<lastmod>2026-03-07T14:23:13+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://mendelson.fr/stop/</loc>
+		<lastmod>2026-03-06T20:23:13+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://mendelson.fr/timieline-facebook/</loc>
+		<lastmod>2026-03-05T22:24:54+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://mendelson.fr/discographie-2/personne-ne-le-fera-pour-nous-revue-de-presse/</loc>
@@ -242,10 +246,6 @@
 		<image:image>
 			<image:loc>http://localhost:10003ee.fr/Photositemendelson/logoadecouvrir.jpg</image:loc>
 		</image:image>
-	</url>
-	<url>
-		<loc>https://mendelson.fr/en-ecoute/</loc>
-		<lastmod>2026-03-05T19:30:14+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://mendelson.fr/discographie-2/mon-frere-en-savoir-plus/</loc>

@@ -1,6 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://mendelson.fr/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
+		<loc>https://mendelson.fr/newsletter-ici-dailleurs-du-5-juin-2013/</loc>
+		<lastmod>2017-04-19T09:47:25+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://mendelson.fr/chronique-du-triple-album-par-pop-news/</loc>
+		<lastmod>2017-04-19T09:47:25+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://mendelson.fr/mendelson-dun-coup/</loc>
+		<lastmod>2017-04-19T09:47:25+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://mendelson.fr/tournee-mendelson-automne-2013/</loc>
+		<lastmod>2017-04-19T09:47:25+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://mendelson.fr/la-playlist-tgv-mag-de-bernard-lenoir/</loc>
+		<lastmod>2017-04-19T09:47:25+00:00</lastmod>
+		<image:image>
+			<image:loc>https://mendelson.fr/wp-content/uploads/2013/06/1000170_340724586056712_1947141644_n.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>https://mendelson.fr/la-vie-13-juin-2013/</loc>
 		<lastmod>2017-04-19T09:47:25+00:00</lastmod>
 		<image:image>
@@ -88,13 +111,6 @@
 	<url>
 		<loc>https://mendelson.fr/nouvelle-date-de-concert-mendelson-le-9-novembre-a-lausanne-le-bourg/</loc>
 		<lastmod>2017-04-19T09:47:23+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://mendelson.fr/concerts-sortie-vinyle-de-personne-ne-le-fera-pour-nous-un-nouveau-clip-et-mimo-the-maker/</loc>
-		<lastmod>2017-04-19T09:47:23+00:00</lastmod>
-		<image:image>
-			<image:loc>http://localhost:10003ee.fr/accueil/index_files/cover_mendelson-500x500.jpg</image:loc>
-		</image:image>
 	</url>
 	<url>
 		<loc>https://mendelson.fr/mendelson-en-concert-ce-mardi-a-tours-et-mercredi-a-nancy/</loc>
@@ -503,19 +519,6 @@
 		<lastmod>2017-04-19T09:47:17+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://mendelson.fr/mendelson-en-concert-a-romainville/</loc>
-		<lastmod>2017-04-19T09:47:17+00:00</lastmod>
-		<image:image>
-			<image:loc>https://mendelson.fr/wp-content/uploads/2016/03/image06.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://mendelson.fr/wp-content/uploads/2016/03/image08.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://mendelson.fr/wp-content/uploads/2015/03/anim2015_v3.gif</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://mendelson.fr/mendelson-en-concert-jeudi-2-avril-a-bobigny/</loc>
 		<lastmod>2017-04-19T09:47:17+00:00</lastmod>
 		<image:image>
@@ -541,13 +544,6 @@
 		<lastmod>2017-04-19T09:47:16+00:00</lastmod>
 		<image:image>
 			<image:loc>https://mendelson.fr/wp-content/uploads/2015/09/bruit_noir2.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://mendelson.fr/abus-dangereux-136/</loc>
-		<lastmod>2017-04-19T09:47:16+00:00</lastmod>
-		<image:image>
-			<image:loc>https://mendelson.fr/wp-content/uploads/2016/03/mendelson_article_abus_dangereux_072015_prevue.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -670,13 +666,6 @@
 	<url>
 		<loc>https://mendelson.fr/la-province/</loc>
 		<lastmod>2017-04-19T09:47:14+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://mendelson.fr/bruit-noir-est-dans-le-dernier-politis/</loc>
-		<lastmod>2017-04-19T09:47:14+00:00</lastmod>
-		<image:image>
-			<image:loc>https://mendelson.fr/wp-content/uploads/2015/12/12376009_778599122269254_382354906310226696_n.jpg</image:loc>
-		</image:image>
 	</url>
 	<url>
 		<loc>https://mendelson.fr/bruit-noir-i-iii-07-manifestation/</loc>
@@ -1112,13 +1101,6 @@
 	<url>
 		<loc>https://mendelson.fr/chronique-de-sciences-politiques-sur-indiepoprock/</loc>
 		<lastmod>2017-04-19T09:47:06+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://mendelson.fr/sciences-politiques-dans-politis/</loc>
-		<lastmod>2017-04-19T09:47:06+00:00</lastmod>
-		<image:image>
-			<image:loc>https://mendelson.fr/wp-content/uploads/2017/04/sciences_politiques_dans_politis.jpg</image:loc>
-		</image:image>
 	</url>
 	<url>
 		<loc>https://mendelson.fr/extension-politique-8-le-capitalisme/</loc>

@@ -1,8 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://mendelson.fr/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
+		<loc>https://mendelson.fr/page-d-exemple/</loc>
+		<lastmod>2017-04-14T21:19:31+00:00</lastmod>
+	</url>
+	<url>
 		<loc>https://mendelson.fr/page-dacceuil/</loc>
 		<lastmod>2017-04-14T22:39:05+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://mendelson.fr/videos-de-mendelson/</loc>
+		<lastmod>2026-03-06T23:17:07+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://mendelson.fr/stop/</loc>
+		<lastmod>2026-03-06T20:23:13+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://mendelson.fr/timieline-facebook/</loc>
@@ -38,10 +50,6 @@
 		<image:image>
 			<image:loc>https://mendelson.fr/wp-content/uploads/2017/04/ined.jpg</image:loc>
 		</image:image>
-	</url>
-	<url>
-		<loc>https://mendelson.fr/videos-de-mendelson/</loc>
-		<lastmod>2026-03-05T21:03:38+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://mendelson.fr/discographie-2/personne-ne-le-fera-pour-nous-revue-de-presse/</loc>
@@ -251,14 +259,14 @@
 		<lastmod>2026-03-03T12:20:54+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://mendelson.fr/autre-chose/quelque-chose-de-lordre-du-nimporte-quoi-2003/</loc>
+		<loc>https://mendelson.fr/autre-chose__trashed/quelque-chose-de-lordre-du-nimporte-quoi-2003/</loc>
 		<lastmod>2026-03-02T15:57:21+00:00</lastmod>
 		<image:image>
 			<image:loc>https://mendelson.fr/wp-content/uploads/2016/06/hit_record2.gif</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://mendelson.fr/autre-chose/1188-2/</loc>
+		<loc>https://mendelson.fr/autre-chose__trashed/1188-2/</loc>
 		<lastmod>2026-02-27T16:04:09+00:00</lastmod>
 		<image:image>
 			<image:loc>https://mendelson.fr/wp-content/uploads/2016/06/mnr5.gif</image:loc>
@@ -271,10 +279,6 @@
 	<url>
 		<loc>https://mendelson.fr/merci/</loc>
 		<lastmod>2017-04-17T20:46:34+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://mendelson.fr/page-d-exemple/</loc>
-		<lastmod>2017-04-14T21:19:31+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://mendelson.fr/discographie-2/bruit-noir-revue-de-presse/</loc>

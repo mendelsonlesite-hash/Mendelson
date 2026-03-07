@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://mendelson.fr/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
+		<loc>https://mendelson.fr/la-vie-13-juin-2013/</loc>
+		<lastmod>2017-04-19T09:47:25+00:00</lastmod>
+		<image:image>
+			<image:loc>https://mendelson.fr/wp-content/uploads/2013/06/8683_344911092304728_101971977_n-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>https://mendelson.fr/pas-la-peine-de-crier-france-culture-20062013-1600/</loc>
 		<lastmod>2017-04-19T09:47:24+00:00</lastmod>
 	</url>
@@ -1115,10 +1122,6 @@
 	</url>
 	<url>
 		<loc>https://mendelson.fr/extension-politique-8-le-capitalisme/</loc>
-		<lastmod>2017-04-19T09:47:06+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://mendelson.fr/extension-politique-9/</loc>
 		<lastmod>2017-04-19T09:47:06+00:00</lastmod>
 	</url>
 </urlset>

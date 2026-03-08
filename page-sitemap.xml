@@ -9,12 +9,11 @@
 		<lastmod>2017-04-14T22:39:05+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://mendelson.fr/mendelson-en-ecoute/</loc>
-		<lastmod>2026-03-07T21:10:00+00:00</lastmod>
-	</url>
-	<url>
 		<loc>https://mendelson.fr/discographie-2/</loc>
-		<lastmod>2026-03-07T18:16:45+00:00</lastmod>
+		<lastmod>2026-03-08T21:23:02+00:00</lastmod>
+		<image:image>
+			<image:loc>https://mendelson.fr/wp-content/uploads/2026/03/unnamed-scaled.jpg</image:loc>
+		</image:image>
 		<image:image>
 			<image:loc>https://mendelson.fr/wp-content/uploads/2017/03/c5_tqsaxqaaqy.jpg</image:loc>
 		</image:image>
@@ -42,6 +41,10 @@
 		<image:image>
 			<image:loc>https://mendelson.fr/wp-content/uploads/2017/04/ined.jpg</image:loc>
 		</image:image>
+	</url>
+	<url>
+		<loc>https://mendelson.fr/mendelson-en-ecoute/</loc>
+		<lastmod>2026-03-07T21:10:00+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://mendelson.fr/videos-de-mendelson/</loc>

@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://mendelson.fr/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://mendelson.fr/newsletter-ici-dailleurs-du-5-juin-2013/</loc>
+		<loc>https://mendelson.fr/chronique-sur-autres-directions/</loc>
 		<lastmod>2017-04-19T09:47:25+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://mendelson.fr/chronique-du-triple-album-par-pop-news/</loc>
+		<loc>https://mendelson.fr/chronique-sur-bon-pour-les-oreilles/</loc>
+		<lastmod>2017-04-19T09:47:25+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://mendelson.fr/interview-a-decouvrir-absolument-3/</loc>
+		<lastmod>2017-04-19T09:47:25+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://mendelson.fr/newsletter-ici-dailleurs-du-5-juin-2013/</loc>
 		<lastmod>2017-04-19T09:47:25+00:00</lastmod>
 	</url>
 	<url>
@@ -15,13 +23,6 @@
 	<url>
 		<loc>https://mendelson.fr/tournee-mendelson-automne-2013/</loc>
 		<lastmod>2017-04-19T09:47:25+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://mendelson.fr/la-playlist-tgv-mag-de-bernard-lenoir/</loc>
-		<lastmod>2017-04-19T09:47:25+00:00</lastmod>
-		<image:image>
-			<image:loc>https://mendelson.fr/wp-content/uploads/2013/06/1000170_340724586056712_1947141644_n.jpg</image:loc>
-		</image:image>
 	</url>
 	<url>
 		<loc>https://mendelson.fr/la-vie-13-juin-2013/</loc>
@@ -173,31 +174,31 @@
 		<loc>https://mendelson.fr/photos-tournee-octobre-novembre-2013/</loc>
 		<lastmod>2017-04-19T09:47:22+00:00</lastmod>
 		<image:image>
-			<image:loc>http://localhost:10003ee.fr/Photositemendelson/photos_tournee_2013_PYL/529203_10201481359811819_1380672544_n.jpg</image:loc>
+			<image:loc>https://mendelson.fr/photositemendelson/photos_tournee_2013_pyl/529203_10201481359811819_1380672544_n.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>http://localhost:10003ee.fr/Photositemendelson/photos_tournee_2013_PYL/995201_10201518974072152_1019855300_n.jpg</image:loc>
+			<image:loc>https://mendelson.fr/photositemendelson/photos_tournee_2013_pyl/995201_10201518974072152_1019855300_n.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>http://localhost:10003ee.fr/Photositemendelson/photos_tournee_2013_PYL/603986_10201665982587273_2013654623_n.jpg</image:loc>
+			<image:loc>https://mendelson.fr/photositemendelson/photos_tournee_2013_pyl/603986_10201665982587273_2013654623_n.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>http://localhost:10003ee.fr/Photositemendelson/photos_tournee_2013_PYL/935986_10201700435488574_461029271_n.jpg</image:loc>
+			<image:loc>https://mendelson.fr/photositemendelson/photos_tournee_2013_pyl/935986_10201700435488574_461029271_n.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>http://localhost:10003ee.fr/Photositemendelson/photos_tournee_2013_PYL/529099_10201722276474585_1935214461_n.jpg</image:loc>
+			<image:loc>https://mendelson.fr/photositemendelson/photos_tournee_2013_pyl/529099_10201722276474585_1935214461_n.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>http://localhost:10003ee.fr/Photositemendelson/photos_tournee_2013_PYL/1465234_403992256396611_572548213_n.jpg</image:loc>
+			<image:loc>https://mendelson.fr/photositemendelson/photos_tournee_2013_pyl/1465234_403992256396611_572548213_n.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>http://localhost:10003ee.fr/Photositemendelson/photos_tournee_2013_PYL/1395818_10201727154756539_1568834719_n.jpg</image:loc>
+			<image:loc>https://mendelson.fr/photositemendelson/photos_tournee_2013_pyl/1395818_10201727154756539_1568834719_n.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>http://localhost:10003ee.fr/Photositemendelson/photos_tournee_2013_PYL/1002914_10201729662059220_1594323965_n.jpg</image:loc>
+			<image:loc>https://mendelson.fr/photositemendelson/photos_tournee_2013_pyl/1002914_10201729662059220_1594323965_n.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>http://localhost:10003ee.fr/Photositemendelson/photos_tournee_2013_PYL/1391985_10201735997417600_2021866035_n.jpg</image:loc>
+			<image:loc>https://mendelson.fr/photositemendelson/photos_tournee_2013_pyl/1391985_10201735997417600_2021866035_n.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -266,6 +267,10 @@
 		<lastmod>2017-04-19T09:47:21+00:00</lastmod>
 	</url>
 	<url>
+		<loc>https://mendelson.fr/mendelson-en-concert-le-vendredi-25-avril-courant-scene/</loc>
+		<lastmod>2017-04-19T09:47:20+00:00</lastmod>
+	</url>
+	<url>
 		<loc>https://mendelson.fr/rfi-vous-men-direz-des-nouvelles/</loc>
 		<lastmod>2017-04-19T09:47:20+00:00</lastmod>
 	</url>
@@ -279,10 +284,6 @@
 	</url>
 	<url>
 		<loc>https://mendelson.fr/live-report-du-concert-a-nantes-21-mars-2104/</loc>
-		<lastmod>2017-04-19T09:47:20+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://mendelson.fr/mendelson-en-concert-le-vendredi-25-avril-courant-scene/</loc>
 		<lastmod>2017-04-19T09:47:20+00:00</lastmod>
 	</url>
 	<url>
@@ -300,19 +301,19 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>https://mendelson.fr/vauvert/</loc>
+		<lastmod>2017-04-19T09:47:20+00:00</lastmod>
+		<image:image>
+			<image:loc>https://mendelson.fr/wp-content/uploads/2014/06/10151179_10202856148860686_1670971379806844403_n-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>https://mendelson.fr/haikus-revue-de-presse/</loc>
 		<lastmod>2017-04-19T09:47:20+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://mendelson.fr/haikus-revue-de-presse-2/</loc>
 		<lastmod>2017-04-19T09:47:20+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://mendelson.fr/vauvert/</loc>
-		<lastmod>2017-04-19T09:47:20+00:00</lastmod>
-		<image:image>
-			<image:loc>https://mendelson.fr/wp-content/uploads/2014/06/10151179_10202856148860686_1670971379806844403_n-1.jpg</image:loc>
-		</image:image>
 	</url>
 	<url>
 		<loc>https://mendelson.fr/interview-dans-la-gazette-de-nimes/</loc>
@@ -357,11 +358,11 @@
 		<lastmod>2017-04-19T09:47:19+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://mendelson.fr/mendelson-au-scanner-playlist-12-janv-2015/</loc>
+		<loc>https://mendelson.fr/playlists-des-concerts-a-la-maison-de-la-poesie/</loc>
 		<lastmod>2017-04-19T09:47:19+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://mendelson.fr/playlists-des-concerts-a-la-maison-de-la-poesie/</loc>
+		<loc>https://mendelson.fr/mendelson-au-scanner-playlist-12-janv-2015/</loc>
 		<lastmod>2017-04-19T09:47:19+00:00</lastmod>
 	</url>
 	<url>
@@ -385,11 +386,11 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://mendelson.fr/mendelson-ta-main-extrait-maison-de-la-poesie-paris-26012015/</loc>
+		<loc>https://mendelson.fr/playlist-du-2-fev-2015-maison-de-la-poesie/</loc>
 		<lastmod>2017-04-19T09:47:18+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://mendelson.fr/playlist-du-2-fev-2015-maison-de-la-poesie/</loc>
+		<loc>https://mendelson.fr/mendelson-ta-main-extrait-maison-de-la-poesie-paris-26012015/</loc>
 		<lastmod>2017-04-19T09:47:18+00:00</lastmod>
 	</url>
 	<url>
@@ -533,13 +534,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://mendelson.fr/mendelson-presente-bruit-noir/</loc>
-		<lastmod>2017-04-19T09:47:16+00:00</lastmod>
-		<image:image>
-			<image:loc>https://mendelson.fr/wp-content/uploads/2015/09/bruit-noir-requiem-carte-postale-1.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://mendelson.fr/419/</loc>
 		<lastmod>2017-04-19T09:47:16+00:00</lastmod>
 		<image:image>
@@ -600,11 +594,11 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://mendelson.fr/une-chronique-dans-gonzai-pour-bruit-noir/</loc>
+		<loc>https://mendelson.fr/interview-chez-noisey/</loc>
 		<lastmod>2017-04-19T09:47:15+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://mendelson.fr/interview-chez-noisey/</loc>
+		<loc>https://mendelson.fr/une-chronique-dans-gonzai-pour-bruit-noir/</loc>
 		<lastmod>2017-04-19T09:47:15+00:00</lastmod>
 	</url>
 	<url>
@@ -676,15 +670,15 @@
 		<lastmod>2017-04-19T09:47:14+00:00</lastmod>
 	</url>
 	<url>
+		<loc>https://mendelson.fr/bruit-noir-i-iii-09-securite-sociale/</loc>
+		<lastmod>2017-04-19T09:47:14+00:00</lastmod>
+	</url>
+	<url>
 		<loc>https://mendelson.fr/les-cadeaux-de-bruit-noir/</loc>
 		<lastmod>2017-04-19T09:47:14+00:00</lastmod>
 		<image:image>
 			<image:loc>https://mendelson.fr/wp-content/uploads/2016/01/cycabzgwkau33a0.jpg</image:loc>
 		</image:image>
-	</url>
-	<url>
-		<loc>https://mendelson.fr/bruit-noir-i-iii-09-securite-sociale/</loc>
-		<lastmod>2017-04-19T09:47:14+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://mendelson.fr/bruit-noir-i-iii-10-adieu/</loc>
@@ -719,6 +713,13 @@
 		<lastmod>2017-04-19T09:47:13+00:00</lastmod>
 	</url>
 	<url>
+		<loc>https://mendelson.fr/radio-web-radio-fondation-louis-vuitton/</loc>
+		<lastmod>2017-04-19T09:47:13+00:00</lastmod>
+		<image:image>
+			<image:loc>https://mendelson.fr/wp-content/uploads/2016/03/radioanim.gif</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>https://mendelson.fr/description-assez-fidele-dun-concert-de-bruit-noir/</loc>
 		<lastmod>2017-04-19T09:47:13+00:00</lastmod>
 		<image:image>
@@ -730,22 +731,15 @@
 		<lastmod>2017-04-19T09:47:13+00:00</lastmod>
 	</url>
 	<url>
+		<loc>https://mendelson.fr/mendelson-ouvre-ses-archives-2-la-honte/</loc>
+		<lastmod>2017-04-19T09:47:13+00:00</lastmod>
+	</url>
+	<url>
 		<loc>https://mendelson.fr/festival-hors-limite/</loc>
 		<lastmod>2017-04-19T09:47:13+00:00</lastmod>
 		<image:image>
 			<image:loc>https://mendelson.fr/wp-content/uploads/2016/03/hl2016_visuel1-840x1200.jpg</image:loc>
 		</image:image>
-	</url>
-	<url>
-		<loc>https://mendelson.fr/radio-web-radio-fondation-louis-vuitton/</loc>
-		<lastmod>2017-04-19T09:47:13+00:00</lastmod>
-		<image:image>
-			<image:loc>https://mendelson.fr/wp-content/uploads/2016/03/radioanim.gif</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://mendelson.fr/mendelson-ouvre-ses-archives-2-la-honte/</loc>
-		<lastmod>2017-04-19T09:47:13+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://mendelson.fr/1er-album-solo-haikus/</loc>
@@ -837,6 +831,16 @@
 		<lastmod>2017-04-19T09:47:12+00:00</lastmod>
 	</url>
 	<url>
+		<loc>https://mendelson.fr/belgique-suite/</loc>
+		<lastmod>2017-04-19T09:47:11+00:00</lastmod>
+		<image:image>
+			<image:loc>https://mendelson.fr/wp-content/uploads/2016/06/13406807_880333588762473_4223860213913748712_n.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://mendelson.fr/wp-content/uploads/2016/06/13432440_1198928676797563_7166144094395071279_n.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>https://mendelson.fr/chronique-ce-jour-dans-telerama-3-clefs-pour-haikus/</loc>
 		<lastmod>2017-04-19T09:47:11+00:00</lastmod>
 	</url>
@@ -853,14 +857,8 @@
 		<lastmod>2017-04-19T09:47:11+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://mendelson.fr/belgique-suite/</loc>
+		<loc>https://mendelson.fr/comme-parfois-cest-court-mais-cest-bon/</loc>
 		<lastmod>2017-04-19T09:47:11+00:00</lastmod>
-		<image:image>
-			<image:loc>https://mendelson.fr/wp-content/uploads/2016/06/13406807_880333588762473_4223860213913748712_n.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://mendelson.fr/wp-content/uploads/2016/06/13432440_1198928676797563_7166144094395071279_n.jpg</image:loc>
-		</image:image>
 	</url>
 	<url>
 		<loc>https://mendelson.fr/un-article-avec-de-la-violence-dedans/</loc>
@@ -871,11 +869,11 @@
 		<lastmod>2017-04-19T09:47:11+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://mendelson.fr/comme-parfois-cest-court-mais-cest-bon/</loc>
+		<loc>https://mendelson.fr/le-nouveau-rendez-vous/</loc>
 		<lastmod>2017-04-19T09:47:11+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://mendelson.fr/le-nouveau-rendez-vous/</loc>
+		<loc>https://mendelson.fr/jeudi-dernier-sur-france-inter/</loc>
 		<lastmod>2017-04-19T09:47:11+00:00</lastmod>
 	</url>
 	<url>
@@ -884,10 +882,6 @@
 	</url>
 	<url>
 		<loc>https://mendelson.fr/france-culture/</loc>
-		<lastmod>2017-04-19T09:47:11+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://mendelson.fr/jeudi-dernier-sur-france-inter/</loc>
 		<lastmod>2017-04-19T09:47:11+00:00</lastmod>
 	</url>
 	<url>
@@ -1002,6 +996,13 @@
 		<lastmod>2017-04-19T09:47:08+00:00</lastmod>
 	</url>
 	<url>
+		<loc>https://mendelson.fr/sortie-6eme-album-de-mendelson-sciences-politiques-le-31-mars-2017/</loc>
+		<lastmod>2017-04-19T09:47:08+00:00</lastmod>
+		<image:image>
+			<image:loc>https://mendelson.fr/wp-content/uploads/2017/03/c5_tqsaxqaaqy.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>https://mendelson.fr/1er-album-dinedits-de-mendelson/</loc>
 		<lastmod>2017-04-19T09:47:08+00:00</lastmod>
 	</url>
@@ -1012,13 +1013,6 @@
 	<url>
 		<loc>https://mendelson.fr/1er-concert-de-la-tournee-mendelson-joue-sciences-politiques/</loc>
 		<lastmod>2017-04-19T09:47:08+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://mendelson.fr/sortie-6eme-album-de-mendelson-sciences-politiques-le-31-mars-2017/</loc>
-		<lastmod>2017-04-19T09:47:08+00:00</lastmod>
-		<image:image>
-			<image:loc>https://mendelson.fr/wp-content/uploads/2017/03/c5_tqsaxqaaqy.jpg</image:loc>
-		</image:image>
 	</url>
 	<url>
 		<loc>https://mendelson.fr/sciences-politiques-chronique-dans-magic/</loc>

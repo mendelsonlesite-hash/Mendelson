@@ -5,6 +5,21 @@
 		<lastmod>2017-04-14T21:19:31+00:00</lastmod>
 	</url>
 	<url>
+		<loc>https://mendelson.fr/haikus-revue-de-presse/</loc>
+		<lastmod>2026-03-21T12:28:35+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://mendelson.fr/ii-iii-bruitnoir/</loc>
+		<lastmod>2026-03-21T09:35:17+00:00</lastmod>
+		<image:image>
+			<image:loc>https://mendelson.fr/wp-content/uploads/2018/12/img_20181220_190208-2.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://mendelson.fr/pascal-revient-sur-la-sortie-de-lavenir-est-devant/</loc>
+		<lastmod>2026-03-12T21:28:49+00:00</lastmod>
+	</url>
+	<url>
 		<loc>https://mendelson.fr/la-playlist-tgv-mag-de-bernard-lenoir/</loc>
 		<lastmod>2026-03-08T22:06:09+00:00</lastmod>
 		<image:image>
@@ -326,22 +341,11 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://mendelson.fr/ii-iii-bruitnoir/</loc>
-		<lastmod>2018-12-20T18:16:35+00:00</lastmod>
-		<image:image>
-			<image:loc>https://mendelson.fr/wp-content/uploads/2018/12/img_20181220_190208.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://mendelson.fr/2743/</loc>
 		<lastmod>2017-11-14T09:19:34+00:00</lastmod>
 		<image:image>
 			<image:loc>https://mendelson.fr/wp-content/uploads/2017/11/Riding-With-The-Ghost-759x500.jpg</image:loc>
 		</image:image>
-	</url>
-	<url>
-		<loc>https://mendelson.fr/pascal-revient-sur-la-sortie-de-lavenir-est-devant/</loc>
-		<lastmod>2017-09-05T12:08:46+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://mendelson.fr/un-bel-article-pour-feter-les-10-ans-de-personne-ne-le-fera-pour-nous/</loc>
@@ -552,15 +556,15 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>https://mendelson.fr/en-direct-de-france-inter/</loc>
+		<lastmod>2017-04-19T09:47:37+00:00</lastmod>
+	</url>
+	<url>
 		<loc>https://mendelson.fr/personne-ne-le-fera-pour-nous-sur-itunes/</loc>
 		<lastmod>2017-04-19T09:47:37+00:00</lastmod>
 		<image:image>
 			<image:loc>https://mendelson.fr/Photositemendelson/logo_iTunes.jpg</image:loc>
 		</image:image>
-	</url>
-	<url>
-		<loc>https://mendelson.fr/en-direct-de-france-inter/</loc>
-		<lastmod>2017-04-19T09:47:37+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://mendelson.fr/70/</loc>
@@ -604,24 +608,15 @@
 		<lastmod>2017-04-19T09:47:37+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://mendelson.fr/un-noel-mendelson-2/</loc>
-		<lastmod>2017-04-19T09:47:36+00:00</lastmod>
-		<image:image>
-			<image:loc>https://mendelson.fr/Photositemendelson/live_projection.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://mendelson.fr/Photositemendelson/image_whiteses_newsl.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://mendelson.fr/Photositemendelson/cdpersonne.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://mendelson.fr/mendelson-a-grenoble/</loc>
 		<lastmod>2017-04-19T09:47:36+00:00</lastmod>
 		<image:image>
 			<image:loc>https://mendelson.fr/Photositemendelson/affiche_concert_personne.jpg</image:loc>
 		</image:image>
+	</url>
+	<url>
+		<loc>https://mendelson.fr/lundi-soir-une-radio-a-paris/</loc>
+		<lastmod>2017-04-19T09:47:36+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://mendelson.fr/les-inrockuptibles-n-627-4-decembre-2007/</loc>
@@ -670,12 +665,21 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://mendelson.fr/lundi-soir-une-radio-a-paris/</loc>
+		<loc>https://mendelson.fr/la-billetterie-mendelson-est-ouverte/</loc>
 		<lastmod>2017-04-19T09:47:36+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://mendelson.fr/la-billetterie-mendelson-est-ouverte/</loc>
+		<loc>https://mendelson.fr/un-noel-mendelson-2/</loc>
 		<lastmod>2017-04-19T09:47:36+00:00</lastmod>
+		<image:image>
+			<image:loc>https://mendelson.fr/Photositemendelson/live_projection.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://mendelson.fr/Photositemendelson/image_whiteses_newsl.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://mendelson.fr/Photositemendelson/cdpersonne.jpg</image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc>https://mendelson.fr/pinkushion-suite/</loc>
@@ -747,13 +751,6 @@
 	<url>
 		<loc>https://mendelson.fr/interview-sur-le-net/</loc>
 		<lastmod>2017-04-19T09:47:35+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://mendelson.fr/midi-libre/</loc>
-		<lastmod>2017-04-19T09:47:34+00:00</lastmod>
-		<image:image>
-			<image:loc>https://mendelson.fr/Photositemendelson/fichiers_revue_de_presse/midi_libre_vign.jpg</image:loc>
-		</image:image>
 	</url>
 	<url>
 		<loc>https://mendelson.fr/en-direct-de-son-blog/</loc>
@@ -844,10 +841,10 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://mendelson.fr/mendelson-en-concert-jazz-a-la-villette-12-septembre-2008-22h/</loc>
-		<lastmod>2017-04-19T09:47:33+00:00</lastmod>
+		<loc>https://mendelson.fr/midi-libre/</loc>
+		<lastmod>2017-04-19T09:47:34+00:00</lastmod>
 		<image:image>
-			<image:loc>https://mendelson.fr/Photositemendelson/divan_vign.jpg</image:loc>
+			<image:loc>https://mendelson.fr/Photositemendelson/fichiers_revue_de_presse/midi_libre_vign.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -891,13 +888,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://mendelson.fr/agrandis-ton-mendelson-maintenant/</loc>
-		<lastmod>2017-04-19T09:47:33+00:00</lastmod>
-		<image:image>
-			<image:loc>https://mendelson.fr/Photositemendelson/divan_vign.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://mendelson.fr/concerts-2009/</loc>
 		<lastmod>2017-04-19T09:47:33+00:00</lastmod>
 	</url>
@@ -906,15 +896,29 @@
 		<lastmod>2017-04-19T09:47:33+00:00</lastmod>
 	</url>
 	<url>
+		<loc>https://mendelson.fr/photos/</loc>
+		<lastmod>2017-04-19T09:47:33+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://mendelson.fr/mendelson-en-concert-jazz-a-la-villette-12-septembre-2008-22h/</loc>
+		<lastmod>2017-04-19T09:47:33+00:00</lastmod>
+		<image:image>
+			<image:loc>https://mendelson.fr/Photositemendelson/divan_vign.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://mendelson.fr/agrandis-ton-mendelson-maintenant/</loc>
+		<lastmod>2017-04-19T09:47:33+00:00</lastmod>
+		<image:image>
+			<image:loc>https://mendelson.fr/Photositemendelson/divan_vign.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>https://mendelson.fr/jazz-a-la-villette/</loc>
 		<lastmod>2017-04-19T09:47:33+00:00</lastmod>
 		<image:image>
 			<image:loc>https://mendelson.fr/Photositemendelson/jazz_villette.jpg</image:loc>
 		</image:image>
-	</url>
-	<url>
-		<loc>https://mendelson.fr/photos/</loc>
-		<lastmod>2017-04-19T09:47:33+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://mendelson.fr/lou-les-freres-nusuck/</loc>
@@ -1175,11 +1179,8 @@
 		<lastmod>2017-04-19T09:47:29+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://mendelson.fr/twitter/</loc>
+		<loc>https://mendelson.fr/mendelson-en-direct-le-16-mai-sur-france-inter/</loc>
 		<lastmod>2017-04-19T09:47:28+00:00</lastmod>
-		<image:image>
-			<image:loc>https://mendelson.fr/wp-content/uploads/2013/04/300px-twitter_birdsvg.png</image:loc>
-		</image:image>
 	</url>
 	<url>
 		<loc>https://mendelson.fr/triple-album-en-precommande/</loc>
@@ -1199,8 +1200,11 @@
 		<lastmod>2017-04-19T09:47:28+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://mendelson.fr/mendelson-en-direct-le-16-mai-sur-france-inter/</loc>
+		<loc>https://mendelson.fr/twitter/</loc>
 		<lastmod>2017-04-19T09:47:28+00:00</lastmod>
+		<image:image>
+			<image:loc>https://mendelson.fr/wp-content/uploads/2013/04/300px-twitter_birdsvg.png</image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc>https://mendelson.fr/teaser-4/</loc>
@@ -1234,10 +1238,10 @@
 		<lastmod>2017-04-19T09:47:28+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://mendelson.fr/le-triple-album-en-rayon/</loc>
+		<loc>https://mendelson.fr/photos-du-concert-au-grand-mix/</loc>
 		<lastmod>2017-04-19T09:47:27+00:00</lastmod>
 		<image:image>
-			<image:loc>https://mendelson.fr/wp-content/uploads/2016/03/gibert.png</image:loc>
+			<image:loc>https://mendelson.fr/wp-content/uploads/2016/03/mendelson005.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -1269,10 +1273,10 @@
 		<lastmod>2017-04-19T09:47:27+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://mendelson.fr/photos-du-concert-au-grand-mix/</loc>
+		<loc>https://mendelson.fr/le-triple-album-en-rayon/</loc>
 		<lastmod>2017-04-19T09:47:27+00:00</lastmod>
 		<image:image>
-			<image:loc>https://mendelson.fr/wp-content/uploads/2016/03/mendelson005.jpg</image:loc>
+			<image:loc>https://mendelson.fr/wp-content/uploads/2016/03/gibert.png</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -1287,18 +1291,11 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://mendelson.fr/interview-popnews-2eme-partie/</loc>
-		<lastmod>2017-04-19T09:47:26+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://mendelson.fr/chronique-midi-libre/</loc>
-		<lastmod>2017-04-19T09:47:26+00:00</lastmod>
-		<image:image>
-			<image:loc>https://mendelson.fr/wp-content/uploads/2013/05/936116_334418510020653_65427601_n.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://mendelson.fr/report-live-mendelson-jandek-par-millefeuille/</loc>
+		<lastmod>2017-04-19T09:47:26+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://mendelson.fr/interview-popnews-2eme-partie/</loc>
 		<lastmod>2017-04-19T09:47:26+00:00</lastmod>
 	</url>
 	<url>
@@ -1312,6 +1309,13 @@
 	<url>
 		<loc>https://mendelson.fr/j-1-pour-le-concert-a-villette-sonique/</loc>
 		<lastmod>2017-04-19T09:47:26+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://mendelson.fr/chronique-midi-libre/</loc>
+		<lastmod>2017-04-19T09:47:26+00:00</lastmod>
+		<image:image>
+			<image:loc>https://mendelson.fr/wp-content/uploads/2013/05/936116_334418510020653_65427601_n.jpg</image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc>https://mendelson.fr/interview-a-decouvrir-absolument-1-et-2/</loc>
@@ -1336,18 +1340,8 @@
 		<lastmod>2017-04-19T09:47:26+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://mendelson.fr/chronique-dans-les-inrocks/</loc>
+		<loc>https://mendelson.fr/chronique-cyril-sauvageot-le-mouv/</loc>
 		<lastmod>2017-04-19T09:47:25+00:00</lastmod>
-		<image:image>
-			<image:loc>https://mendelson.fr/wp-content/uploads/2013/05/blblpdkceaa-gen.jpeg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://mendelson.fr/la-vie-13-juin-2013/</loc>
-		<lastmod>2017-04-19T09:47:25+00:00</lastmod>
-		<image:image>
-			<image:loc>https://mendelson.fr/wp-content/uploads/2013/06/8683_344911092304728_101971977_n-1.jpg</image:loc>
-		</image:image>
 	</url>
 	<url>
 		<loc>https://mendelson.fr/chronique-du-triple-album-par-pop-news/</loc>

@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://mendelson.fr/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
+		<loc>https://mendelson.fr/chronique-dans-les-inrocks/</loc>
+		<lastmod>2017-04-19T09:47:25+00:00</lastmod>
+		<image:image>
+			<image:loc>https://mendelson.fr/wp-content/uploads/2013/05/blblpdkceaa-gen.jpeg</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>https://mendelson.fr/chronique-cyril-sauvageot-le-mouv/</loc>
 		<lastmod>2017-04-19T09:47:25+00:00</lastmod>
 	</url>
@@ -534,16 +541,6 @@
 		<lastmod>2017-04-19T09:47:16+00:00</lastmod>
 		<image:image>
 			<image:loc>https://mendelson.fr/wp-content/uploads/2015/09/bruit_noir2.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://mendelson.fr/ici-dailleurs-et-mendelson-presente-2-reeditions-mendelson-3-nouveaux-albums-a-paraitre/</loc>
-		<lastmod>2017-04-19T09:47:16+00:00</lastmod>
-		<image:image>
-			<image:loc>https://mendelson.fr/wp-content/uploads/2015/09/bruitnoir.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://mendelson.fr/wp-content/uploads/2016/03/quelques_avenir.png</image:loc>
 		</image:image>
 	</url>
 	<url>

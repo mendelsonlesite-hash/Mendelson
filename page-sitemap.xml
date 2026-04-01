@@ -9,15 +9,8 @@
 		<lastmod>2017-04-14T22:39:05+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://mendelson.fr/discographie-de-mendelson/personne-ne-le-fera-pour-nous-les-textes/</loc>
-		<lastmod>2026-03-24T11:44:02+00:00</lastmod>
-		<image:image>
-			<image:loc>https://mendelson.fr/wp-content/uploads/2017/04/cover_web_personne_mendelson-500x500-1.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://mendelson.fr/discographie-de-mendelson/</loc>
-		<lastmod>2026-03-23T20:53:24+00:00</lastmod>
+		<lastmod>2026-03-31T20:07:49+00:00</lastmod>
 		<image:image>
 			<image:loc>https://mendelson.fr/wp-content/uploads/2026/03/unnamed-scaled.jpg</image:loc>
 		</image:image>
@@ -48,12 +41,35 @@
 		<image:image>
 			<image:loc>https://mendelson.fr/wp-content/uploads/2017/04/ined.jpg</image:loc>
 		</image:image>
+		<image:image>
+			<image:loc>https://mendelson.fr/wp-content/uploads/pochette_ineditsii.jpg</image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc>https://mendelson.fr/discographie-de-mendelson/mon-frere-en-savoir-plus/</loc>
-		<lastmod>2026-03-22T21:09:15+00:00</lastmod>
+		<lastmod>2026-03-30T20:35:29+00:00</lastmod>
 		<image:image>
 			<image:loc>https://mendelson.fr/wp-content/uploads/2017/04/ined.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://mendelson.fr/discographie-de-mendelson/personne-ne-le-fera-pour-nous-en-savoir-plus/</loc>
+		<lastmod>2026-03-25T07:58:28+00:00</lastmod>
+		<image:image>
+			<image:loc>https://mendelson.fr/wp-content/uploads/ariege_just/photo1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://mendelson.fr/wp-content/uploads/ariege_just/photo2.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://mendelson.fr/wp-content/uploads/ariege_just/photo3.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://mendelson.fr/discographie-de-mendelson/personne-ne-le-fera-pour-nous-les-textes/</loc>
+		<lastmod>2026-03-24T11:44:02+00:00</lastmod>
+		<image:image>
+			<image:loc>https://mendelson.fr/wp-content/uploads/2017/04/cover_web_personne_mendelson-500x500-1.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -80,113 +96,113 @@
 		<loc>https://mendelson.fr/discographie-de-mendelson/quelque-part-revue-de-presse/</loc>
 		<lastmod>2026-03-18T17:05:51+00:00</lastmod>
 		<image:image>
-			<image:loc>https://mendelson.fr/photositemendelson/rockfolk.gif</image:loc>
+			<image:loc>https://mendelson.fr/wp-content/uploads/rockfolk.gif</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://mendelson.fr/photositemendelson/logoinrokpapier.gif</image:loc>
+			<image:loc>https://mendelson.fr/wp-content/uploads/logoinrokpapier.gif</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://mendelson.fr/photositemendelson/logolibepap.jpg</image:loc>
+			<image:loc>https://mendelson.fr/wp-content/uploads/logolibepap.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://mendelson.fr/photositemendelson/logohuma.gif</image:loc>
+			<image:loc>https://mendelson.fr/wp-content/uploads/logohuma.gif</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://mendelson.fr/photositemendelson/logochronicart.gif</image:loc>
+			<image:loc>https://mendelson.fr/wp-content/uploads/logochronicart.gif</image:loc>
 		</image:image>
 	</url>
 	<url>
 		<loc>https://mendelson.fr/discographie-de-mendelson/seuls-au-sommet-revue-de-presse-2/</loc>
 		<lastmod>2026-03-18T13:46:09+00:00</lastmod>
 		<image:image>
-			<image:loc>https://mendelson.fr/photositemendelson/logoinrokpapier.gif</image:loc>
+			<image:loc>https://mendelson.fr/wp-content/uploads/logoinrokpapier.gif</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://mendelson.fr/photositemendelson/logolibepap.jpg</image:loc>
+			<image:loc>https://mendelson.fr/wp-content/uploads/logolibepap.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://mendelson.fr/photositemendelson/flechehaut.jpg</image:loc>
+			<image:loc>https://mendelson.fr/wp-content/uploads/flechehaut.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://mendelson.fr/photositemendelson/logomagic.jpg</image:loc>
+			<image:loc>https://mendelson.fr/wp-content/uploads/logomagic.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://mendelson.fr/photositemendelson/logonewcomer.jpg</image:loc>
+			<image:loc>https://mendelson.fr/wp-content/uploads/logonewcomer.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://mendelson.fr/photositemendelson/logorolling.jpg</image:loc>
+			<image:loc>https://mendelson.fr/wp-content/uploads/logorolling.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://mendelson.fr/photositemendelson/flechehaut.jpg</image:loc>
+			<image:loc>https://mendelson.fr/wp-content/uploads/flechehaut.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://mendelson.fr/photositemendelson/logolemonde.gif</image:loc>
+			<image:loc>https://mendelson.fr/wp-content/uploads/logolemonde.gif</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://mendelson.fr/photositemendelson/logotelerama.gif</image:loc>
+			<image:loc>https://mendelson.fr/wp-content/uploads/logotelerama.gif</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://mendelson.fr/photositemendelson/logotelerama3f.gif</image:loc>
+			<image:loc>https://mendelson.fr/wp-content/uploads/logotelerama3f.gif</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://mendelson.fr/photositemendelson/logopopnews.gif</image:loc>
+			<image:loc>https://mendelson.fr/wp-content/uploads/logopopnews.gif</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://mendelson.fr/photositemendelson/logo_mouvement.jpg</image:loc>
+			<image:loc>https://mendelson.fr/wp-content/uploads/logo_mouvement.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://mendelson.fr/photositemendelson/logoctopus.gif</image:loc>
+			<image:loc>https://mendelson.fr/wp-content/uploads/logoctopus.gif</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://mendelson.fr/photositemendelson/flechehaut.jpg</image:loc>
+			<image:loc>https://mendelson.fr/wp-content/uploads/flechehaut.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://mendelson.fr/photositemendelson/logo_presto.gif</image:loc>
+			<image:loc>https://mendelson.fr/wp-content/uploads/logo_presto.gif</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://mendelson.fr/photositemendelson/logo_ddo.gif</image:loc>
+			<image:loc>https://mendelson.fr/wp-content/uploads/logo_ddo.gif</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://mendelson.fr/photositemendelson/flechehaut.jpg</image:loc>
+			<image:loc>https://mendelson.fr/wp-content/uploads/flechehaut.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://mendelson.fr/photositemendelson/logolongueur.jpg</image:loc>
+			<image:loc>https://mendelson.fr/wp-content/uploads/logolongueur.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://mendelson.fr/photositemendelson/flechehaut.jpg</image:loc>
+			<image:loc>https://mendelson.fr/wp-content/uploads/flechehaut.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://mendelson.fr/photositemendelson/logochronicart2.gif</image:loc>
+			<image:loc>https://mendelson.fr/wp-content/uploads/logochronicart2.gif</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://mendelson.fr/photositemendelson/flechehaut.jpg</image:loc>
+			<image:loc>https://mendelson.fr/wp-content/uploads/flechehaut.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://mendelson.fr/photositemendelson/logopetitbuletin.gif</image:loc>
+			<image:loc>https://mendelson.fr/wp-content/uploads/logopetitbuletin.gif</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://mendelson.fr/photositemendelson/flechehaut.jpg</image:loc>
+			<image:loc>https://mendelson.fr/wp-content/uploads/flechehaut.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://mendelson.fr/photositemendelson/logointramuros.gif</image:loc>
+			<image:loc>https://mendelson.fr/wp-content/uploads/logointramuros.gif</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://mendelson.fr/photositemendelson/logocourrierca.gif</image:loc>
+			<image:loc>https://mendelson.fr/wp-content/uploads/logocourrierca.gif</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://mendelson.fr/photositemendelson/logotechnikart.gif</image:loc>
+			<image:loc>https://mendelson.fr/wp-content/uploads/logotechnikart.gif</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://mendelson.fr/photositemendelson/xi_logo.gif</image:loc>
+			<image:loc>https://mendelson.fr/wp-content/uploads/xi_logo.gif</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://mendelson.fr/photositemendelson/logofro.jpg</image:loc>
+			<image:loc>https://mendelson.fr/wp-content/uploads/logofro.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://mendelson.fr/photositemendelson/logopolitis.gif</image:loc>
+			<image:loc>https://mendelson.fr/wp-content/uploads/logopolitis.gif</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://mendelson.fr/photositemendelson/logoadecouvrir.jpg</image:loc>
+			<image:loc>https://mendelson.fr/wp-content/uploads/logoadecouvrir.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -213,94 +229,94 @@
 		<loc>https://mendelson.fr/discographie-de-mendelson/seuls-au-sommet-revue-de-presse/</loc>
 		<lastmod>2026-03-05T19:59:11+00:00</lastmod>
 		<image:image>
-			<image:loc>https://mendelson.fr/photositemendelson/logoinrokpapier.gif</image:loc>
+			<image:loc>https://mendelson.fr/wp-content/uploads/logoinrokpapier.gif</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://mendelson.fr/photositemendelson/logolibepap.jpg</image:loc>
+			<image:loc>https://mendelson.fr/wp-content/uploads/logolibepap.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://mendelson.fr/photositemendelson/flechehaut.jpg</image:loc>
+			<image:loc>https://mendelson.fr/wp-content/uploads/flechehaut.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://mendelson.fr/photositemendelson/logomagic.jpg</image:loc>
+			<image:loc>https://mendelson.fr/wp-content/uploads/logomagic.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://mendelson.fr/photositemendelson/logonewcomer.jpg</image:loc>
+			<image:loc>https://mendelson.fr/wp-content/uploads/logonewcomer.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://mendelson.fr/photositemendelson/logorolling.jpg</image:loc>
+			<image:loc>https://mendelson.fr/wp-content/uploads/logorolling.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://mendelson.fr/photositemendelson/flechehaut.jpg</image:loc>
+			<image:loc>https://mendelson.fr/wp-content/uploads/flechehaut.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://mendelson.fr/photositemendelson/logolemonde.gif</image:loc>
+			<image:loc>https://mendelson.fr/wp-content/uploads/logolemonde.gif</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://mendelson.fr/photositemendelson/logotelerama.gif</image:loc>
+			<image:loc>https://mendelson.fr/wp-content/uploads/logotelerama.gif</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://mendelson.fr/photositemendelson/logotelerama3f.gif</image:loc>
+			<image:loc>https://mendelson.fr/wp-content/uploads/logotelerama3f.gif</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://mendelson.fr/photositemendelson/logopopnews.gif</image:loc>
+			<image:loc>https://mendelson.fr/wp-content/uploads/logopopnews.gif</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://mendelson.fr/photositemendelson/logo_mouvement.jpg</image:loc>
+			<image:loc>https://mendelson.fr/wp-content/uploads/logo_mouvement.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://mendelson.fr/photositemendelson/logoctopus.gif</image:loc>
+			<image:loc>https://mendelson.fr/wp-content/uploads/logoctopus.gif</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://mendelson.fr/photositemendelson/flechehaut.jpg</image:loc>
+			<image:loc>https://mendelson.fr/wp-content/uploads/flechehaut.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://mendelson.fr/photositemendelson/logo_presto.gif</image:loc>
+			<image:loc>https://mendelson.fr/wp-content/uploads/logo_presto.gif</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://mendelson.fr/photositemendelson/logo_ddo.gif</image:loc>
+			<image:loc>https://mendelson.fr/wp-content/uploads/logo_ddo.gif</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://mendelson.fr/photositemendelson/flechehaut.jpg</image:loc>
+			<image:loc>https://mendelson.fr/wp-content/uploads/flechehaut.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://mendelson.fr/photositemendelson/logolongueur.jpg</image:loc>
+			<image:loc>https://mendelson.fr/wp-content/uploads/logolongueur.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://mendelson.fr/photositemendelson/flechehaut.jpg</image:loc>
+			<image:loc>https://mendelson.fr/wp-content/uploads/flechehaut.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://mendelson.fr/photositemendelson/logochronicart2.gif</image:loc>
+			<image:loc>https://mendelson.fr/wp-content/uploads/logochronicart2.gif</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://mendelson.fr/photositemendelson/flechehaut.jpg</image:loc>
+			<image:loc>https://mendelson.fr/wp-content/uploads/flechehaut.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://mendelson.fr/photositemendelson/logopetitbuletin.gif</image:loc>
+			<image:loc>https://mendelson.fr/wp-content/uploads/logopetitbuletin.gif</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://mendelson.fr/photositemendelson/flechehaut.jpg</image:loc>
+			<image:loc>https://mendelson.fr/wp-content/uploads/flechehaut.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://mendelson.fr/photositemendelson/logointramuros.gif</image:loc>
+			<image:loc>https://mendelson.fr/wp-content/uploads/logointramuros.gif</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://mendelson.fr/photositemendelson/logocourrierca.gif</image:loc>
+			<image:loc>https://mendelson.fr/wp-content/uploads/logocourrierca.gif</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://mendelson.fr/photositemendelson/logotechnikart.gif</image:loc>
+			<image:loc>https://mendelson.fr/wp-content/uploads/logotechnikart.gif</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://mendelson.fr/photositemendelson/xi_logo.gif</image:loc>
+			<image:loc>https://mendelson.fr/wp-content/uploads/xi_logo.gif</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://mendelson.fr/photositemendelson/logofro.jpg</image:loc>
+			<image:loc>https://mendelson.fr/wp-content/uploads/logofro.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://mendelson.fr/photositemendelson/logopolitis.gif</image:loc>
+			<image:loc>https://mendelson.fr/wp-content/uploads/logopolitis.gif</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://mendelson.fr/photositemendelson/logoadecouvrir.jpg</image:loc>
+			<image:loc>https://mendelson.fr/wp-content/uploads/logoadecouvrir.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -363,10 +379,10 @@
 			<image:loc>https://mendelson.fr/wp-content/uploads/2017/04/lavenirverso.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://mendelson.fr/photositemendelson/lavenirphotopromo2.jpg</image:loc>
+			<image:loc>https://mendelson.fr/wp-content/uploads/lavenirphotopromo2.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://mendelson.fr/photositemendelson/lavenirphotopromo1.jpg</image:loc>
+			<image:loc>https://mendelson.fr/wp-content/uploads/lavenirphotopromo1.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -374,19 +390,6 @@
 		<lastmod>2017-04-07T14:57:28+00:00</lastmod>
 		<image:image>
 			<image:loc>https://mendelson.fr/wp-content/uploads/2017/04/lavenirestdevant1000x1000.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://mendelson.fr/discographie-de-mendelson/personne-ne-le-fera-pour-nous-en-savoir-plus/</loc>
-		<lastmod>2017-04-06T15:46:59+00:00</lastmod>
-		<image:image>
-			<image:loc>https://mendelson.fr/photositemendelson/ariege_just/photo1.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://mendelson.fr/photositemendelson/ariege_just/photo2.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://mendelson.fr/photositemendelson/ariege_just/photo3.png</image:loc>
 		</image:image>
 	</url>
 	<url>

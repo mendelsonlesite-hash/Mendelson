@@ -5,8 +5,22 @@
 		<lastmod>2017-04-14T21:19:31+00:00</lastmod>
 	</url>
 	<url>
+		<loc>https://mendelson.fr/1er-album-dinedits-de-mendelson/</loc>
+		<lastmod>2026-04-07T14:02:19+00:00</lastmod>
+		<image:image>
+			<image:loc>https://mendelson.fr/wp-content/uploads/pochette_inedits.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://mendelson.fr/wp-content/uploads/50d09485-2aa5-4fef-aea9-b23b363bb429.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://mendelson.fr/inedits/</loc>
+		<lastmod>2026-04-07T11:31:08+00:00</lastmod>
+	</url>
+	<url>
 		<loc>https://mendelson.fr/mendelson-inedits-ii-8-titres/</loc>
-		<lastmod>2026-03-31T20:06:36+00:00</lastmod>
+		<lastmod>2026-04-06T19:17:12+00:00</lastmod>
 		<image:image>
 			<image:loc>https://mendelson.fr/wp-content/uploads/pochette_ineditsii.jpg</image:loc>
 		</image:image>
@@ -15,12 +29,12 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://mendelson.fr/en-direct-de-france-inter/</loc>
-		<lastmod>2026-03-30T19:42:49+00:00</lastmod>
+		<loc>https://mendelson.fr/la-white-session-de-mendelson/</loc>
+		<lastmod>2026-04-04T11:24:50+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://mendelson.fr/1er-album-dinedits-de-mendelson/</loc>
-		<lastmod>2026-03-26T07:54:57+00:00</lastmod>
+		<loc>https://mendelson.fr/en-direct-de-france-inter/</loc>
+		<lastmod>2026-03-30T19:42:49+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://mendelson.fr/sortie-vinyle-de-haikus/</loc>
@@ -309,10 +323,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://mendelson.fr/la-white-session-de-mendelson/</loc>
-		<lastmod>2026-03-01T21:04:37+00:00</lastmod>
-	</url>
-	<url>
 		<loc>https://mendelson.fr/figaro-magazine/</loc>
 		<lastmod>2026-03-01T19:15:06+00:00</lastmod>
 		<image:image>
@@ -500,13 +510,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://mendelson.fr/mp3/</loc>
-		<lastmod>2017-04-19T09:47:40+00:00</lastmod>
-		<image:image>
-			<image:loc>https://mendelson.fr/wp-content/uploads/2016/03/pochetineditpouraccueil.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://mendelson.fr/liens-3/</loc>
 		<lastmod>2017-04-19T09:47:40+00:00</lastmod>
 		<image:image>
@@ -639,6 +642,20 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>https://mendelson.fr/mendelson-en-concert-a-paris/</loc>
+		<lastmod>2017-04-19T09:47:37+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://mendelson.fr/mouvementnet/</loc>
+		<lastmod>2017-04-19T09:47:37+00:00</lastmod>
+		<image:image>
+			<image:loc>https://mendelson.fr/wp-content/uploads/2016/03/logo_seul.thumbnail.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://mendelson.fr/wp-content/uploads/2016/03/mouvement.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>https://mendelson.fr/les-victoires-mendelson-de-la-musique-mendelson/</loc>
 		<lastmod>2017-04-19T09:47:37+00:00</lastmod>
 		<image:image>
@@ -659,6 +676,10 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>https://mendelson.fr/rappel-2/</loc>
+		<lastmod>2017-04-19T09:47:37+00:00</lastmod>
+	</url>
+	<url>
 		<loc>https://mendelson.fr/70/</loc>
 		<lastmod>2017-04-19T09:47:37+00:00</lastmod>
 		<image:image>
@@ -667,24 +688,6 @@
 		<image:image>
 			<image:loc>https://mendelson.fr/wp-content/uploads/telerama_person2.jpg</image:loc>
 		</image:image>
-	</url>
-	<url>
-		<loc>https://mendelson.fr/mouvementnet/</loc>
-		<lastmod>2017-04-19T09:47:37+00:00</lastmod>
-		<image:image>
-			<image:loc>https://mendelson.fr/wp-content/uploads/2016/03/logo_seul.thumbnail.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://mendelson.fr/wp-content/uploads/2016/03/mouvement.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://mendelson.fr/mendelson-en-concert-a-paris/</loc>
-		<lastmod>2017-04-19T09:47:37+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://mendelson.fr/rappel-2/</loc>
-		<lastmod>2017-04-19T09:47:37+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://mendelson.fr/lundi-soir-une-radio-a-paris/</loc>
@@ -715,23 +718,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://mendelson.fr/sortie-en-magasin/</loc>
-		<lastmod>2017-04-19T09:47:35+00:00</lastmod>
-		<image:image>
-			<image:loc>https://mendelson.fr/wp-content/uploads/cd_couv_personne_sticker2.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://mendelson.fr/lannonce-faite-a-mendelson-ou-personne-ne-le-fera-pour-nous-enfin-en-magasin/</loc>
-		<lastmod>2017-04-19T09:47:35+00:00</lastmod>
-		<image:image>
-			<image:loc>https://mendelson.fr/wp-content/uploads/cd_couv_personne_acceui.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://mendelson.fr/wp-content/uploads/concert_mendelson_petit.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://mendelson.fr/concours-mendelson-popnews/</loc>
 		<lastmod>2017-04-19T09:47:35+00:00</lastmod>
 		<image:image>
@@ -740,6 +726,17 @@
 		<image:image>
 			<image:loc>https://mendelson.fr/wp-content/uploads/fichiers_revue_de_presse/concourspopnews.jpg</image:loc>
 		</image:image>
+	</url>
+	<url>
+		<loc>https://mendelson.fr/metropolis/</loc>
+		<lastmod>2017-04-19T09:47:35+00:00</lastmod>
+		<image:image>
+			<image:loc>https://mendelson.fr/wp-content/uploads/fichiers_revue_de_presse/metropolis.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://mendelson.fr/concert-a-montpellier/</loc>
+		<lastmod>2017-04-19T09:47:35+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://mendelson.fr/concert-a-poitiers/</loc>
@@ -757,19 +754,25 @@
 		<lastmod>2017-04-19T09:47:35+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://mendelson.fr/metropolis/</loc>
+		<loc>https://mendelson.fr/festival-phoenix-a-caen/</loc>
+		<lastmod>2017-04-19T09:47:35+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://mendelson.fr/lannonce-faite-a-mendelson-ou-personne-ne-le-fera-pour-nous-enfin-en-magasin/</loc>
 		<lastmod>2017-04-19T09:47:35+00:00</lastmod>
 		<image:image>
-			<image:loc>https://mendelson.fr/wp-content/uploads/fichiers_revue_de_presse/metropolis.jpg</image:loc>
+			<image:loc>https://mendelson.fr/wp-content/uploads/cd_couv_personne_acceui.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://mendelson.fr/wp-content/uploads/concert_mendelson_petit.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://mendelson.fr/concert-a-montpellier/</loc>
+		<loc>https://mendelson.fr/sortie-en-magasin/</loc>
 		<lastmod>2017-04-19T09:47:35+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://mendelson.fr/festival-phoenix-a-caen/</loc>
-		<lastmod>2017-04-19T09:47:35+00:00</lastmod>
+		<image:image>
+			<image:loc>https://mendelson.fr/wp-content/uploads/cd_couv_personne_sticker2.jpg</image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc>https://mendelson.fr/en-direct-de-son-blog/</loc>
@@ -940,37 +943,12 @@
 		<lastmod>2017-04-19T09:47:33+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://mendelson.fr/fausse-info/</loc>
-		<lastmod>2017-04-19T09:47:32+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://mendelson.fr/documentaire/</loc>
-		<lastmod>2017-04-19T09:47:32+00:00</lastmod>
-	</url>
-	<url>
 		<loc>https://mendelson.fr/mendelson-la-derniere-seance/</loc>
 		<lastmod>2017-04-19T09:47:32+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://mendelson.fr/mendelson-festival-paris-en-toutes-lettres/</loc>
+		<loc>https://mendelson.fr/fausse-info/</loc>
 		<lastmod>2017-04-19T09:47:32+00:00</lastmod>
-		<image:image>
-			<image:loc>https://mendelson.fr/wp-content/uploads/parisentouteslettres.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://mendelson.fr/les-sables-dolonne/</loc>
-		<lastmod>2017-04-19T09:47:32+00:00</lastmod>
-		<image:image>
-			<image:loc>https://mendelson.fr/wp-content/uploads/fnc-2009.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://mendelson.fr/mendelson-en-concert-guests-demain-samedi/</loc>
-		<lastmod>2017-04-19T09:47:32+00:00</lastmod>
-		<image:image>
-			<image:loc>https://mendelson.fr/personne/personne_fichiers/image014.jpg</image:loc>
-		</image:image>
 	</url>
 	<url>
 		<loc>https://mendelson.fr/lou-les-freres-nusuck/</loc>
@@ -987,6 +965,10 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>https://mendelson.fr/documentaire/</loc>
+		<lastmod>2017-04-19T09:47:32+00:00</lastmod>
+	</url>
+	<url>
 		<loc>https://mendelson.fr/mendelson-dans-le-plan-de-relance-2009/</loc>
 		<lastmod>2017-04-19T09:47:32+00:00</lastmod>
 		<image:image>
@@ -1001,10 +983,24 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://mendelson.fr/135/</loc>
-		<lastmod>2017-04-19T09:47:31+00:00</lastmod>
+		<loc>https://mendelson.fr/mendelson-en-concert-guests-demain-samedi/</loc>
+		<lastmod>2017-04-19T09:47:32+00:00</lastmod>
 		<image:image>
-			<image:loc>https://mendelson.fr/wp-content/uploads/capturebbbnewslet2.jpg</image:loc>
+			<image:loc>https://mendelson.fr/personne/personne_fichiers/image014.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://mendelson.fr/les-sables-dolonne/</loc>
+		<lastmod>2017-04-19T09:47:32+00:00</lastmod>
+		<image:image>
+			<image:loc>https://mendelson.fr/wp-content/uploads/fnc-2009.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://mendelson.fr/mendelson-festival-paris-en-toutes-lettres/</loc>
+		<lastmod>2017-04-19T09:47:32+00:00</lastmod>
+		<image:image>
+			<image:loc>https://mendelson.fr/wp-content/uploads/parisentouteslettres.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -1054,6 +1050,13 @@
 	<url>
 		<loc>https://mendelson.fr/notes-du-sous-sol/</loc>
 		<lastmod>2017-04-19T09:47:31+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://mendelson.fr/135/</loc>
+		<lastmod>2017-04-19T09:47:31+00:00</lastmod>
+		<image:image>
+			<image:loc>https://mendelson.fr/wp-content/uploads/capturebbbnewslet2.jpg</image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc>https://mendelson.fr/notes-du-sous-sol-2/</loc>
@@ -1250,7 +1253,7 @@
 		<lastmod>2017-04-19T09:47:28+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://mendelson.fr/entretien-dans-ouest-france/</loc>
+		<loc>https://mendelson.fr/mendelson-le-mardi-14-mai-sur-france-inter-de-21h-a-23h/</loc>
 		<lastmod>2017-04-19T09:47:27+00:00</lastmod>
 	</url>
 	<url>
@@ -1261,7 +1264,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://mendelson.fr/mendelson-le-mardi-14-mai-sur-france-inter-de-21h-a-23h/</loc>
+		<loc>https://mendelson.fr/entretien-dans-ouest-france/</loc>
 		<lastmod>2017-04-19T09:47:27+00:00</lastmod>
 	</url>
 	<url>
@@ -1303,11 +1306,8 @@
 		<lastmod>2017-04-19T09:47:27+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://mendelson.fr/chronique-midi-libre/</loc>
+		<loc>https://mendelson.fr/interview-popnews-2eme-partie/</loc>
 		<lastmod>2017-04-19T09:47:26+00:00</lastmod>
-		<image:image>
-			<image:loc>https://mendelson.fr/wp-content/uploads/2013/05/936116_334418510020653_65427601_n.jpg</image:loc>
-		</image:image>
 	</url>
 	<url>
 		<loc>https://mendelson.fr/chronique-du-concert-au-grand-mix-par-froggys-delight/</loc>
@@ -1344,8 +1344,11 @@
 		<lastmod>2017-04-19T09:47:26+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://mendelson.fr/interview-popnews-2eme-partie/</loc>
+		<loc>https://mendelson.fr/chronique-midi-libre/</loc>
 		<lastmod>2017-04-19T09:47:26+00:00</lastmod>
+		<image:image>
+			<image:loc>https://mendelson.fr/wp-content/uploads/2013/05/936116_334418510020653_65427601_n.jpg</image:loc>
+		</image:image>
 	</url>
 </urlset>
 <!-- XML Sitemap generated by Rank Math SEO Plugin (c) Rank Math - rankmath.com -->

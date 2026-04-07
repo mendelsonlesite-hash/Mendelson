@@ -47,3 +47,17 @@
 2026-03-18 13:31:55: ✅ DB size: 34.16MB (yesterday: 34.16 MB).
 2026-03-21 09:21:43: ✅ DB size: 27.86MB (yesterday: 34.16 MB).
 2026-03-21 10:38:11: ✅ DB size: 27.86MB (yesterday: 34.16 MB).
+2026-04-03 15:52:00: ✅ Cleaned 'Revisions'
+2026-04-03 15:52:01: ✅ Cleaned 'Revisions'
+2026-04-03 15:52:02: ✅ Cleaned 'Deleted Posts'
+2026-04-03 15:52:03: ✅ Cleaned 'oEmbed Caches'
+2026-04-03 15:52:04: ✅ Cleaned 'oEmbed Caches'
+2026-04-03 15:52:20: ✅ DB size: 42.3MB (yesterday: 27.86 MB).
+2026-04-03 15:52:23: ✅ DB size: 42.3MB (yesterday: 27.86 MB).
+2026-04-03 15:53:53: ✅ Cleaned 'Orphaned Post Meta'
+2026-04-03 15:53:54: ✅ Cleaned 'Orphaned Post Meta'
+2026-04-04 00:08:04: ✅ DB size: 42.3MB (yesterday: 42.3 MB).
+2026-04-04 10:41:39: ✅ DB size: 42.3MB (yesterday: 42.3 MB).
+2026-04-06 12:04:04: ✅ DB size: 42.23MB (yesterday: 42.3 MB).
+2026-04-06 22:42:09: ✅ DB size: 42.23MB (yesterday: 42.23 MB).
+2026-04-07 10:37:18: ✅ DB size: 42.23MB (yesterday: 42.23 MB).

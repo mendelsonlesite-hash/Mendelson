@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://mendelson.fr/main-sitemap.xsl"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc>https://mendelson.fr/category/mendelson/</loc>
+		<lastmod>2026-04-07T14:02:19+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://mendelson.fr/category/mendelson/presse/</loc>
+		<lastmod>2026-03-30T19:42:49+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://mendelson.fr/category/mendelson/bruit-noir/</loc>
+		<lastmod>2026-03-21T09:35:17+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://mendelson.fr/category/mendelson/concerts/</loc>
+		<lastmod>2026-03-24T15:13:48+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://mendelson.fr/category/mendelson/concerts/playlist/</loc>
+		<lastmod>2026-03-08T21:41:22+00:00</lastmod>
+	</url>
+</urlset>
